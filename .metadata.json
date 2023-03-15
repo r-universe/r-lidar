@@ -1,10 +1,10 @@
 [
   {
-    "package": "rlas",
+    "package": "lidR",
     "oncran": true
   },
   {
-    "package": "lidR",
+    "package": "rlas",
     "oncran": true
   }
 ]
