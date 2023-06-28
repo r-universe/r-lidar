@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "lidR"]
 	path = lidR
 	url = https://github.com/r-lidar/lidr
-	shallow = true
-	registered = true
 [submodule "RCSF"]
 	path = RCSF
 	url = https://github.com/r-lidar/rcsf
-	shallow = true
-	registered = true
 [submodule "rlas"]
 	path = rlas
 	url = https://github.com/r-lidar/rlas
-	shallow = true
-	registered = true
 [submodule "RMCC"]
 	path = RMCC
 	url = https://github.com/r-lidar/rmcc
-	shallow = true
-	registered = true
