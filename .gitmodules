@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lidR"]
-	path = lidR
-	url = https://github.com/r-lidar/lidr
 [submodule "RCSF"]
 	path = RCSF
 	url = https://github.com/r-lidar/rcsf
-[submodule "rlas"]
-	path = rlas
-	url = https://github.com/r-lidar/rlas
 [submodule "RMCC"]
 	path = RMCC
 	url = https://github.com/r-lidar/rmcc
+[submodule "lidR"]
+	path = lidR
+	url = https://github.com/r-lidar/lidr
+[submodule "rlas"]
+	path = rlas
+	url = https://github.com/r-lidar/rlas
