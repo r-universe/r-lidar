@@ -1,16 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/r-lidar/r-lidar.r-universe.dev
 	branch = HEAD
 [submodule "RCSF"]
 	path = RCSF
-	url = https://github.com/r-lidar/rcsf
+	url = https://github.com/r-lidar/RCSF
 [submodule "RMCC"]
 	path = RMCC
-	url = https://github.com/r-lidar/rmcc
+	url = https://github.com/r-lidar/RMCC
+[submodule "lasR"]
+	path = lasR
+	url = https://github.com/r-lidar/lasR
 [submodule "lidR"]
 	path = lidR
-	url = https://github.com/r-lidar/lidr
+	url = https://github.com/r-lidar/lidR
 [submodule "rlas"]
 	path = rlas
 	url = https://github.com/r-lidar/rlas
