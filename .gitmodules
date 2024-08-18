@@ -13,7 +13,7 @@
 	url = https://github.com/r-lidar/lasR
 [submodule "lasRui"]
 	path = lasRui
-	url = https://github.com/r-lidar/lasRui
+	url = https://github.com/r-lidar-lab/lasRui
 [submodule "lidR"]
 	path = lidR
 	url = https://github.com/r-lidar/lidR
