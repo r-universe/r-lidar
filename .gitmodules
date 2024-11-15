@@ -19,7 +19,7 @@
 	url = https://github.com/r-lidar/lidR
 [submodule "lidRviewer"]
 	path = lidRviewer
-	url = https://github.com/r-lidar-lab/lidRviewer
+	url = https://github.com/r-lidar/lidRviewer
 [submodule "rlas"]
 	path = rlas
 	url = https://github.com/r-lidar/rlas
