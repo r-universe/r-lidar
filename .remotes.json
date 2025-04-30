@@ -1,0 +1,8 @@
+[
+  {
+    "package": "lasR",
+    "url": "https://github.com/r-lidar/lasR",
+    "via": ["lidRalignment"],
+    "from": "lidRalignment"
+  }
+]
