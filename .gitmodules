@@ -17,6 +17,9 @@
 [submodule "lidR"]
 	path = lidR
 	url = https://github.com/r-lidar/lidR
+[submodule "lidRalignment"]
+	path = lidRalignment
+	url = https://github.com/r-lidar/lidRalignment
 [submodule "lidRviewer"]
 	path = lidRviewer
 	url = https://github.com/r-lidar/lidRviewer
