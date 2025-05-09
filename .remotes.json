@@ -4,5 +4,11 @@
     "url": "https://github.com/r-lidar/lasR",
     "via": ["lidRalignment"],
     "from": "lidRalignment"
+  },
+  {
+    "package": "lidR",
+    "url": "https://github.com/r-lidar/lidR",
+    "via": ["lidRalignment"],
+    "from": "lidRalignment"
   }
 ]
