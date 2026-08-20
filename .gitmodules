@@ -8,6 +8,9 @@
 [submodule "RMCC"]
 	path = RMCC
 	url = https://github.com/r-lidar/RMCC
+[submodule "arbor"]
+	path = arbor
+	url = https://github.com/r-lidar/arbor
 [submodule "lasR"]
 	path = lasR
 	url = https://github.com/r-lidar/lasR
